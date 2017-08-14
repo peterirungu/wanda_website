@@ -1,0 +1,426 @@
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 60%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.navbar-inverse {
+    background-color: #149c82;
+    border: 0px solid #149c82;
+}
+.navbar-brand>img {
+    display: block;
+    height: 51px;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #149c82;
+}
+.navbar-inverse .navbar-brand {
+    color: #fff;
+    font-weight: bolder;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #8db5ca;
+    /*padding: 1em 1em;*/
+    font-size: 1.2em;
+    font-family: 'Overlock', cursive;
+    font-weight: bolder;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #008B8B;
+    background: #fff;
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    border-radius: 10px;
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    color: #3a9f40;
+    background-color: #fcfcfc;
+}
+.navbar-inverse .navbar-nav > li > a {
+    color: #fcfcfc;
+     padding: 1em 1em; 
+    font-size: 1.2em;
+    font-family: 'Overlock', cursive;
+    font-weight: bolder;
+}
+
+/*.panel-default {
+    border:0px solid #fff;
+}*/
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+     border: 0 solid #fff; 
+     border-radius: 4px; 
+     -webkit-box-shadow: 0 0 0 rgba(0,0,0,.05); 
+     box-shadow: 0 0 0 rgba(0,0,0,.05); 
+}
+
+.panel-success {
+    border-color: #fcf8e3;
+}
+
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #149c82;
+    border: 1px solid #149c82;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
+/* 404 Page Styles */
+
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 21px;
+    line-height: 1.42857143;
+    background-color: #ffffff;
+    border: 1px solid #ecf0f1;
+    border-radius: 4px;
+    -webkit-transition: border .2s ease-in-out;
+    -o-transition: border .2s ease-in-out;
+    transition: border .2s ease-in-out;
+}
+a.thumbnail.active, a.thumbnail:focus, a.thumbnail:hover {
+    border-color: #4dfec3;
+    background-color: #4dfec3;
+}
+
+a {
+    color: #18bc9c;
+    text-decoration: none;
+}
+
+a:focus, a:hover{
+    color: #02131c;
+    text-decoration: none;
+}
+.error-404 {
+    font-size: 100px;
+}
+
+/* Pricing Page Styles */
+
+.price {
+    display: block;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.price sup {
+    top: -20px;
+    left: 2px;
+    font-size: 20px;
+}
+
+.period {
+    display: block;
+    font-style: italic;
+}
+
+
+.timeline {
+    position: relative;
+    padding: 21px 0px 10px;
+    margin-top: 4px;
+    margin-bottom: 30px;
+}
+
+.timeline .line {
+    position: absolute;
+    width: 4px;
+    display: block;
+    background: currentColor;
+    top: 0px;
+    bottom: 0px;
+    margin-left: 30px;
+}
+
+.timeline .separator {
+    border-top: 1px solid currentColor;
+    padding: 5px;
+    padding-left: 40px;
+    font-style: italic;
+    font-size: .9em;
+    margin-left: 30px;
+}
+
+.timeline .line::before { top: -4px; }
+.timeline .line::after { bottom: -4px; }
+.timeline .line::before,
+.timeline .line::after {
+    content: '';
+    position: absolute;
+    left: -4px;
+    width: 12px;
+    height: 12px;
+    display: block;
+    border-radius: 50%;
+    background: currentColor;
+}
+
+.timeline .panel {
+    position: relative;
+    margin: 10px 0px 21px 70px;
+    clear: both;
+}
+
+.timeline .panel::before {
+    position: absolute;
+    display: block;
+    top: 8px;
+    left: -24px;
+    content: '';
+    width: 0px;
+    height: 0px;
+    border: inherit;
+    border-width: 12px;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+}
+
+.timeline .panel .panel-heading.icon * { font-size: 20px; vertical-align: middle; line-height: 40px; }
+.timeline .panel .panel-heading.icon {
+    position: absolute;
+    left: -59px;
+    display: block;
+    width: 40px;
+    height: 40px;
+    padding: 0px;
+    border-radius: 50%;
+    text-align: center;
+    float: left;
+}
+
+.timeline .panel-outline {
+    border-color: transparent;
+    background: transparent;
+    box-shadow: none;
+}
+
+.timeline .panel-outline .panel-body {
+    padding: 10px 0px;
+}
+
+.timeline .panel-outline .panel-heading:not(.icon),
+.timeline .panel-outline .panel-footer {
+    display: none;
+}
+
+
+/* Footer Styles */
+
+footer {
+    color: #fff;
+    background: rgba(21, 124, 104, 0.96);
+}
+
+
+footer {
+    padding: 50px 0 0;
+
+}
+
+footer .widget {
+    margin-bottom: 30px;
+}
+
+footer .widget h5 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+
+.sub-footer {
+    margin-top: 30px;
+    background-color: #f7f7f7;
+    border-top: 1px solid #ddd;
+    padding: 30px 0 10px;
+}
+
+.sub-footer a{
+    color: #444;
+}
+
+footer .sub-footer  p {
+    font-size: 14px;
+}
+
+.fa-inverse {
+    color: #149c82;
+}
+/* Responsive Styles */
+.company-social {
+    margin-left: 0;
+    padding-left: 0;
+    margin-top: 10px;
+}
+
+.company-social {
+    text-align: left;
+    list-style: none;
+}
+
+.company-social li{
+    margin:0;
+    padding:0;
+    display: inline-block;
+}
+
+.company-social a{
+    margin:0 2px 0 0;
+}
+
+.company-social a:hover {
+    color: #fff;
+}
+
+.company-social a i {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+    -webkit-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+    text-align: center;
+    border-radius: 3px;
+    padding:0;
+}
+
+.company-social .social-facebook a i{background: #0475e7;}
+.company-social .social-twitter a i{background: #0addd1;}
+/*.company-social .social-dribble a i{background: #d74980;}
+.company-social .social-deviantart a i{background: #8da356;}*/
+.company-social .social-google a i {background: #b20f0b;}
+/*.company-social .social-vimeo a i {background: #51a6d3;}*/
+.company-social .social-facebook a:hover i {background: #0463ae;}
+.company-social .social-twitter a:hover i {background: #82e6ff;}
+/*.company-social .social-dribble a:hover i {background: #f769a0;}
+.company-social .social-deviantart a:hover i {background: #adc376;}*/
+.company-social .social-google a:hover i {background: #cd0404;}
+/*.company-social .social-vimeo a:hover i {background: #71c6f3;}
+*/
+
+.widget-user-2 .widget-user-header {
+    padding: 20px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+.bg-yellow {
+    /* Note: This gradient may render differently in browsers that don't support the unprefixed gradient syntax */
+
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-linear-gradient(top left, #B4DCFF 0%, #F7F9FF 50%, #5dbe5f 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top left, #B4DCFF 0%, #F7F9FF 50%, #5dbe5f 100%);
+
+    /* Opera */ 
+    background-image: -o-linear-gradient(top left, #B4DCFF 0%, #F7F9FF 50%, #5dbe5f 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0, #B4DCFF), color-stop(0.5, #F7F9FF), color-stop(1, #5dbe5f));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top left, #B4DCFF 0%, #F7F9FF 50%, #5dbe5f 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: linear-gradient(to bottom right, #B4DCFF 0%, #F7F9FF 50%, #5dbe5f 100%);
+}
+}
+.widget-user-username, .widget-user-desc {
+    margin-left: 75px;
+}
+
+.widget-user-username {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-weight: 300;
+}
+.widget-user-image>img {
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin-right: 5px;
+}
+.no-padding {
+    padding: 0 !important;
+}
+
+.bottom-banner{
+    background-color: rgba(30, 129, 109, 0.87);
+    border-radius: 7px;
+    color: #fcfcfc;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.cursor{
+    cursor: pointer;
+}
+ .padding-product{
+    padding-top: 15px;
+ }
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 70%;
+    }
+}
