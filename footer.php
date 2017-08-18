@@ -54,8 +54,8 @@
                     <div class="widget">
                         <h5>Follow us</h5>
                         <ul class="company-social">
-                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li class="social-facebook"><a href="https://www.facebook.com/Wanda-Mobile-Ltd-313604699089122/?notif_t=page_admin&notif_id=1497858107302075" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                            <li class="social-twitter"><a href="https://twitter.com/WandaMobileLtd" target="_blank"><i class="fa fa-twitter"></i></a></li>
                             <li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
                         </ul>
                     </div>

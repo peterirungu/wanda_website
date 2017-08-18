@@ -3,6 +3,17 @@
   include 'navigation.php';
 ?>
 <div class="container">
+     <!-- Page Heading/Breadcrumbs -->
+    <div class="row">
+        <div class="col-lg-12">
+            <ol class="breadcrumb page-header">
+                <li><a href="index.php">Home</a>
+                </li>
+                <li class="active">Team</li>
+            </ol>
+        </div>
+    </div>
+    <!-- /.row -->
     <!-- Page Heading/Breadcrumbs -->
     <div class="row">
         <div class="col-lg-12">
@@ -65,7 +76,9 @@
 	    </div>
 	  </div>
 	</div>
-	<hr>
+        <!-- /.row -->
+    <?php include 'assets/includes/bottom_banner.php'; ?>
+    <hr>
 </div>
 <?php
   include 'footer.php';

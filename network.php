@@ -4,7 +4,17 @@
 ?>
 <!-- Page Content -->
     <div class="container">
-
+    <!-- Page Heading/Breadcrumbs -->
+    <div class="row">
+        <div class="col-lg-12">
+            <ol class="breadcrumb page-header">
+                <li><a href="index.php">Home</a>
+                </li>
+                <li class="active">Network</li>
+            </ol>
+        </div>
+    </div>
+    <!-- /.row -->
         <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
@@ -23,6 +33,7 @@
                     <script async defer 
                         src="https://maps.googleapis.com/maps/api/js?key= AIzaSyCfsnjGOi2rj3dWyA9VpQt6fhC7Z5amnDA&callback=initMap">
                     </script>
+                      <!--  Google Map load -->
                 </div>
             </div>
             <div class="col-md-4">

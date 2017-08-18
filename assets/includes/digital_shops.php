@@ -8,10 +8,10 @@
         <div id="KIRINYAGA" class="panel-collapse collapse in">
             <div class="panel-body">
                 <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                    Kutus Town <br>Opposite Kutus Secondary School<br>
                 </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
-                <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p> 
+                <p><i class="fa fa-phone"></i> Digital.Tel.No : +254 (0) 792660367</p>
+                <p><i class="fa fa-phone"></i> Head Office.No :+254 (0) 204343600</p> 
             </div>
         </div>
     </div>
@@ -24,10 +24,10 @@
         <div id="NYERI" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                    Kiawara	<br>Pama Building, Opposite PCEA Church, near button club-0.418216<br>
                 </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
-                <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p> 
+                <p><i class="fa fa-phone"></i> Digital.Tel.No : +254 (0) 795740948</p>
+                <p><i class="fa fa-phone"></i> Head Office.No :+254 (0) 204343600</p> 
             </div>
         </div>
     </div>
@@ -40,10 +40,10 @@
         <div id="MACHAKOS" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                    Masii <br>Opposite Masii Central Primary School<br>
                 </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
-                <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p> 
+                <p><i class="fa fa-phone"></i> Digital.Tel.No : +254 (0) 713606053</p>
+                <p><i class="fa fa-phone"></i> Head Office.No :+254 (0) 204343600</p> 
             </div>
         </div>
     </div>
@@ -56,10 +56,10 @@
         <div id="MAKUENI" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                    Itangine <br>Off Machakos -Wote road, on your way to Kyumu High School<br>
                 </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
-                <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p> 
+                <p><i class="fa fa-phone"></i> Digital.Tel.No : +254 (0) 795740956</p>
+                <p><i class="fa fa-phone"></i> Head Office.No :+254 (0) 204343600</p> 
             </div>
         </div>
     </div>
@@ -72,10 +72,10 @@
         <div id="MURANGA" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                    Sabasaba <br>Opposite sabasaba main stage, On your left.<br>
                 </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
-                <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p> 
+                <p><i class="fa fa-phone"></i> Digital.Tel.No : +254 (0) 795740947</p>
+                <p><i class="fa fa-phone"></i> Head Office.No :+254 (0) 204343600</p>
             </div>
         </div>
     </div>
@@ -88,10 +88,10 @@
         <div id="MERU" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                    Kariene	<br>Opposite Kariene cooperative society<br>
                 </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
-                <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p> 
+                <p><i class="fa fa-phone"></i> Digital.Tel.No : +254 (0) 795740958</p>
+                <p><i class="fa fa-phone"></i> Head Office.No :+254 (0) 204343600</p>
             </div>
         </div>
     </div>
@@ -106,10 +106,10 @@
         <div id="NYANDARUA" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                    Oljororok <br>Nyandarua Oljororok Oljororok Shopping center <br>
                 </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
-                <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p> 
+                <p><i class="fa fa-phone"></i> Digital.Tel.No : +254 (0) 795740940</p>
+                <p><i class="fa fa-phone"></i> Head Office.No :+254 (0) 204343600</p>
             </div>
         </div>
     </div>
@@ -122,10 +122,10 @@
         <div id="THARAKA_NITHI" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                    Godka Tharaka <br>Adjacent to Godka Restaurant<br>
                 </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
-                <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p> 
+                <p><i class="fa fa-phone"></i> Digital.Tel.No : +254 (0) 795740945</p>
+                <p><i class="fa fa-phone"></i> Head Office.No :+254 (0) 204343600</p>
             </div>
         </div>
     </div>
@@ -138,9 +138,9 @@
         <div id="NAIROBI" class="panel-collapse collapse">
             <div class="panel-body">
                 <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                    Industrial Area	<br>Nairobi Fargo Couirier, Fargo Couirier Limited Central Business Park Road C, Off Enterprise Road Off, Mombasa Road, Nairobi City, Kenya <br>
                 </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
+                <p><i class="fa fa-phone"></i> Digital.Tel.No : 0800721750, +254 (0) 204343600</p>
                 <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p>                
             </div>
         </div>

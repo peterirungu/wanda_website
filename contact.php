@@ -6,6 +6,18 @@
     <div class="container">
 
         <!-- Page Heading/Breadcrumbs -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <ol class="breadcrumb page-header">
+                        <li><a href="index.php">Home</a>
+                        </li>
+                        <li class="active">Contacts</li>
+                    </ol>
+                </div>
+            </div>
+    <!-- /.row -->
+
+        <!-- Page Heading/Breadcrumbs -->
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">CONTACT US
@@ -18,7 +30,23 @@
             <!-- Map Column -->
             <div class="col-md-12">
                 <!-- Embedded Google Map -->
-                <iframe width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?hl=en&amp;ie=UTF8&amp;ll=37.0625,-95.677068&amp;spn=56.506174,79.013672&amp;t=m&amp;z=4&amp;output=embed"></iframe>
+                <div id="map" style="width: 100%; height: 400px;"></div>
+                      <script>
+                          function initMap() {
+                            var wandaagriculture = {lat: -1.322605, lng: 36.842101};
+                            var map = new google.maps.Map(document.getElementById('map'), {
+                              zoom: 17,
+                              center: wandaagriculture
+                            });
+                            var marker = new google.maps.Marker({
+                              position: wandaagriculture,
+                              map: map
+                            });
+                          }
+                        </script>
+
+                   <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC1XZsW9bGOUKE9KIGsdE3KLi7lshZZ24w&callback=initMap">
+                   </script>
             </div>
            
         </div>
@@ -58,7 +86,7 @@
                     </div>
                     <div id="success"></div>
                     <!-- For success/fail messages -->
-                    <button type="submit" class="col-md-12 btn btn-success">Send Message</button>
+                    <button type="submit" class="col-md-12 btn btn-success">Send Message</button></br>
                 </form>
             </div>
              <!-- Contact Details Column -->
@@ -95,7 +123,8 @@
             </div>
         </div>
         <!-- /.row -->
-        <hr>
+       <?php include 'assets/includes/bottom_banner.php'; ?>
+       <hr>
     </div>
     <!-- /.container -->
 <?php
