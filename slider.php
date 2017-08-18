@@ -8,7 +8,7 @@
     </ol>
 
     <!-- Wrapper for slides -->
-    <div class="carousel-inner">
+    <!-- <div class="carousel-inner">
         <div class="item active">
             <div class="fill" style="background-image:url('assets/images/homeslide2.jpg');"></div>
             <div class="carousel-caption">
@@ -27,7 +27,29 @@
                 <h2>WANDA MOBILE LIMITED</h2>
             </div>
         </div>
-    </div>
+    </div> -->
+
+    <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+            <div class="item active">
+                <img src="assets/images/homeslide2.jpg" width="100%" alt="...">
+                <div class="carousel-caption">
+                    WANDA MOBILE LIMITED
+                </div>
+            </div>
+            <div class="item">
+                <img src="assets/images/homeslide21.jpg" width="100%" alt="...">
+                <div class="carousel-caption">
+                    WANDA MOBILE LIMITED
+                </div>
+            </div>
+            <div class="item">
+                <img src="assets/images/homeslide2.jpg" width="100%"  alt="...">
+                <div class="carousel-caption">
+                    WANDA MOBILE LIMITED
+                </div>
+            </div>
+        </div>
 
     <!-- Controls -->
     <a class="left carousel-control" href="#myCarousel" data-slide="prev">

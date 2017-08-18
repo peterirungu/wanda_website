@@ -10,15 +10,9 @@
             <div class="col-lg-12">
                 <h1 class="page-header">CONTACT US
                 </h1>
-               <!--  <ol class="breadcrumb">
-                    <li><a href="index.php">Home</a>
-                    </li>
-                    <li class="active">Contact</li>
-                </ol> -->
             </div>
         </div>
         <!-- /.row -->
-
         <!-- Content Row -->
         <div class="row">
             <!-- Map Column -->
@@ -37,7 +31,7 @@
                 <h3>Send us a Message</h3>
                 <form name="sentMessage" id="contactForm" novalidate>
 
-                    <div class="col-md-8 control-group form-group">
+                    <div class="col-md-8 control-group form-group success">
                         <div class="controls">
                             <label>Full Name:</label>
                             <input type="text" class="form-control" id="name" required data-validation-required-message="Please enter your name.">
@@ -69,31 +63,36 @@
             </div>
              <!-- Contact Details Column -->
             <div class="col-md-4">
-                <h3>Contact Details</h3>
-                <p>
-                    Head Office	<br>4th Floor Metropolis (Crater), Mombasa Road<br>
-                </p>
-                <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
-                <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p>
-                <p><i class="fa fa-globe"></i> Address : P.O Box 51323-00100, Nairobi, Kenya</p>
-                <p><i class="fa fa-envelope-o"></i> <a href="mailto:info@wandamobile.org"> Email: info@wandamobile.org</a>
-                </p>
-                <ul class="list-unstyled list-inline list-social-icons">
-                    <li>
-                        <a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
-                    </li>
-                    <li>
-                        <a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
-                    </li>
-                </ul>
+                <div class="panel panel-success">
+                    <div class="panel-heading">
+                        <h4><i class="fa fa-fw fa-phone"></i> Contact Details</h4>
+                    </div>
+                    <div class="panel-body">
+                        <p>
+                            Head Office <br>4th Floor Metropolis (Crater), Mombasa Road<br>
+                        </p>
+                        <p><i class="fa fa-phone"></i> Tel.No : 0800721750, +254 (0) 204343600</p>
+                        <p><i class="fa fa-phone"></i> Office.No :+254 (0) 204343600</p>
+                        <p><i class="fa fa-globe"></i> Address : P.O Box 51323-00100, Nairobi, Kenya</p>
+                        <p><i class="fa fa-envelope-o"></i> <a href="mailto:info@wandamobile.org"> Email: info@wandamobile.org</a>
+                        </p>
+                        <ul class="list-unstyled list-inline list-social-icons">
+                            <li>
+                                <a href="#"><i class="fa fa-facebook-square fa-2x"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-linkedin-square fa-2x"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-twitter-square fa-2x"></i></a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-google-plus-square fa-2x"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>                
             </div>
-
         </div>
         <!-- /.row -->
         <hr>

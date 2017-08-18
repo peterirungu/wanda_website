@@ -1,23 +1,7 @@
  <!-- Footer -->
     <footer>
-       <!--  <div class="container">        
-            <div class="row">
-                <div class="col-lg-12">
-                    <p>Copyright &copy; Your Website 2014</p>
-                </div>
-            </div>        
-        </div> -->
-
             <div class="container">
             <div class="col-sm-6 col-md-4">
-                <!-- <div class="wow fadeInDown" data-wow-delay="0.1s">
-                    <div class="widget">
-                        <h5>About Wanda</h5>
-                        <p>
-                            Lorem ipsum dolor sit amet, ne nam purto nihil impetus, an facilisi accommodare sea
-                        </p>
-                    </div>
-                </div> -->
                 <div class="wow fadeInDown" data-wow-delay="0.1s">
                     <div class="widget">
                         <h5>Quick Links</h5>
@@ -70,8 +54,8 @@
                     <div class="widget">
                         <h5>Follow us</h5>
                         <ul class="company-social">
-                            <li class="social-facebook"><a href="https://www.facebook.com/Wanda-Mobile-Ltd-313604699089122/?notif_t=page_admin&notif_id=1497858107302075" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                            <li class="social-twitter"><a href="https://twitter.com/WandaMobileLtd" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                            <li class="social-facebook"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li class="social-twitter"><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li class="social-google"><a href="#"><i class="fa fa-google-plus"></i></a></li>
                         </ul>
                     </div>
@@ -79,8 +63,6 @@
             </div>
         </div>
     </footer>
-
-
     <!-- jQuery -->
     <script src="assets/js/jquery.js"></script>
 
@@ -88,9 +70,9 @@
     <script src="assets/js/bootstrap.min.js"></script>
     
     <script src="assets/js/googlemaps.js"></script>
-    
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script src="assets/js/product.js"></script>
+    <script src="assets/js/contact_me.js"></script>
+    <script src="assets/js/jqBootstrapValidation.js"></script>
 
     <!-- Script to Activate the Carousel -->
     <script>
@@ -98,7 +80,5 @@
         interval: 5000 //changes the speed
     })
     </script>
-
 </body>
-
 </html>

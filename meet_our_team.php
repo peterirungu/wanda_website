@@ -9,16 +9,12 @@
             <h1 class="page-header">Team
             </h1>
             <p class="text-center">Each and everyone of our employees represent the spirit of our company,Our commitment and awereness on how Wanda Mobile works</p>
-            <!-- <ol class="breadcrumb">
-                <li><a href="index.php">Home</a>
-                </li>
-                <li class="active">Team</li>
-            </ol -->
+            
         </div>
-        </div>
+    </div>
         <!-- /.row -->
 	<div class="row our-clients">
-	  <div class="col-md-6">
+	  <div class="col-md-6 our_team">
 	    <div class="box box-widget widget-user-2">
 	      <div class="widget-user-header bg-yellow">
 	        <div class="widget-user-image">
@@ -30,7 +26,7 @@
 	      </div>
 	    </div>
 	  </div>
-	  <div class="col-md-6">
+	  <div class="col-md-6 our_team">
 	    <div class="box box-widget widget-user-2">
 	      <div class="widget-user-header bg-yellow">
 	        <div class="widget-user-image">
@@ -43,7 +39,7 @@
 	      </div>
 	    </div>
 	  </div>
-	  <div class="col-md-6">
+	  <div class="col-md-6 our_team">
 	    <div class="box box-widget widget-user-2">
 	      <div class="widget-user-header bg-yellow">
 	        <div class="widget-user-image">
@@ -56,7 +52,7 @@
 	    </div>
 	  </div>
 
-	  <div class="col-md-6">
+	  <div class="col-md-6 our_team">
 	    <div class="box box-widget widget-user-2">
 	      <div class="widget-user-header bg-yellow">
 	        <div class="widget-user-image">

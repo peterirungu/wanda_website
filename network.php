@@ -15,17 +15,17 @@
         <!-- /.row -->
             
         <div class="row">
-            <div class="col-md-9">
+            <div class="col-md-8">
                <!-- Map Column -->
                 <div class="col-md-12">
                     <!-- Embedded Google Map -->
                     <div id="map" style="width: 100%; height: 600px;"></div>
                     <script async defer 
-                    src="https://maps.googleapis.com/maps/api/js?key= AIzaSyCs8TftSacg6u9qan-uOmfeVVTyYa6bXMM&callback=initMap">
-                </script>
+                        src="https://maps.googleapis.com/maps/api/js?key= AIzaSyCfsnjGOi2rj3dWyA9VpQt6fhC7Z5amnDA&callback=initMap">
+                    </script>
                 </div>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-4">
                <div class="panel panel-success">
                 <div class="panel-heading">
                     <h4><i class="fa fa-fw fa-building"></i> Digital Farm Shops</h4>
